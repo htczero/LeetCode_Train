@@ -1,0 +1,7 @@
+E:\Study\Algorithm\CSharp\LeetCode\Medium\bin\Debug\Medium.exe.config
+E:\Study\Algorithm\CSharp\LeetCode\Medium\bin\Debug\Medium.exe
+E:\Study\Algorithm\CSharp\LeetCode\Medium\bin\Debug\Medium.pdb
+E:\Study\Algorithm\CSharp\LeetCode\Medium\obj\Debug\Medium.csproj.CoreCompileInputs.cache
+E:\Study\Algorithm\CSharp\LeetCode\Medium\obj\Debug\Medium.exe
+E:\Study\Algorithm\CSharp\LeetCode\Medium\obj\Debug\Medium.pdb
+E:\Study\Algorithm\CSharp\LeetCode\Medium\obj\Debug\Medium.csprojResolveAssemblyReference.cache
